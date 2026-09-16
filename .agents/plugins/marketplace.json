@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "vimi-school",
+      "name": "vimi",
       "source": {
         "source": "local",
-        "path": "./plugins/vimi-school"
+        "path": "./plugins/vimi"
       },
       "policy": {
         "installation": "AVAILABLE",

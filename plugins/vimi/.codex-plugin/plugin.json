@@ -1,5 +1,5 @@
 {
-  "name": "vimi-school",
+  "name": "vimi",
   "version": "0.18.0",
   "description": "School records for faculty — students, classes, attendance, guardians, health, calendar, policy documents and Google Classroom. Every answer is scoped by the signed-in staff member's own access, enforced by the database rather than the model.",
   "author": {
@@ -17,7 +17,7 @@
   ],
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "VIMI School",
+    "displayName": "VIMI",
     "developerName": "VIMI",
     "logo": "./assets/logo.png",
     "brandColor": "#0B57D3",

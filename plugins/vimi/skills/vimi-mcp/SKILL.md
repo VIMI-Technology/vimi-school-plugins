@@ -1,6 +1,6 @@
 ---
-name: vimi-school-mcp
-description: How to read answers from the VIMI school MCP server correctly. Load whenever a question touches students, classes, rosters, attendance, absences, guardians, contacts, student health, school reports, the school calendar, handbook policy, or Google Classroom for this school.
+name: vimi-mcp
+description: How to read answers from the VIMI MCP server correctly. Load whenever a question touches students, classes, rosters, attendance, absences, guardians, contacts, student health, school reports, the school calendar, handbook policy, or Google Classroom for this school.
 ---
 
 # Reading school records

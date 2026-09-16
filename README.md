@@ -1,6 +1,6 @@
 # VIMI plugins
 
-The ChatGPT and Codex plugin catalog for [VIMI School](https://vimi.school).
+The ChatGPT and Codex plugin catalog for [VIMI](https://vimi.school).
 
 Import this repository as a plugin marketplace from your workspace admin
 settings at `chatgpt.com/admin/plugins`. OpenAI re-syncs it daily, so an update
@@ -8,7 +8,7 @@ here reaches an already-connected workspace without another upload.
 
 | plugin | what it does |
 |---|---|
-| [`vimi-school`](plugins/vimi-school) | School records for faculty — rosters, timetables, attendance, guardians, student health, published reports, the master calendar, handbook policy and Google Classroom |
+| [`vimi`](plugins/vimi) | School records for faculty — rosters, timetables, attendance, guardians, student health, published reports, the master calendar, handbook policy and Google Classroom |
 
 ## What this repository is
 
