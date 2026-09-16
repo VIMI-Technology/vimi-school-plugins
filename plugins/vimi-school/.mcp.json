@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "vimi-school": {
+      "type": "http",
+      "url": "https://vimi.school/mcp",
+      "oauth_resource": "https://vimi.school"
+    }
+  }
+}

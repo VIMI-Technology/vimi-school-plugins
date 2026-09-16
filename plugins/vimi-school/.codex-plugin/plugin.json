@@ -1,0 +1,27 @@
+{
+  "name": "vimi-school",
+  "version": "0.18.0",
+  "description": "School records for faculty — students, classes, attendance, guardians, health, calendar, policy documents and Google Classroom. Every answer is scoped by the signed-in staff member's own access, enforced by the database rather than the model.",
+  "author": {
+    "name": "VIMI",
+    "url": "https://vimi.school"
+  },
+  "homepage": "https://vimi.school",
+  "license": "UNLICENSED",
+  "keywords": ["school", "sis", "faculty", "roster", "attendance"],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "VIMI School",
+    "developerName": "VIMI",
+    "category": "Productivity",
+    "shortDescription": "Ask about your students and classes",
+    "longDescription": "Read school records the way the school's own systems hold them: rosters, timetables, attendance and absences, guardians and contacts, student health, published reports, the master calendar, handbook policy, and Google Classroom. Authorization is decided in PostgreSQL against your staff identity on every call, so you see exactly what you could see by hand.",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Who is absent in my homeroom today?",
+      "Show me the guardian contacts for a student in my class"
+    ],
+    "websiteURL": "https://vimi.school",
+    "screenshots": []
+  }
+}
