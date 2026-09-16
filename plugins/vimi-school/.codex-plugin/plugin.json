@@ -8,11 +8,20 @@
   },
   "homepage": "https://vimi.school",
   "license": "UNLICENSED",
-  "keywords": ["school", "sis", "faculty", "roster", "attendance"],
+  "keywords": [
+    "school",
+    "sis",
+    "faculty",
+    "roster",
+    "attendance"
+  ],
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "VIMI School",
     "developerName": "VIMI",
+    "logo": "./assets/logo.png",
+    "brandColor": "#0B57D3",
+    "brandColorDark": "#1365EC",
     "category": "Productivity",
     "shortDescription": "Ask about your students and classes",
     "longDescription": "Read school records the way the school's own systems hold them: rosters, timetables, attendance and absences, guardians and contacts, student health, published reports, the master calendar, handbook policy, and Google Classroom. Authorization is decided in PostgreSQL against your staff identity on every call, so you see exactly what you could see by hand.",
